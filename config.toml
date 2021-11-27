@@ -14,8 +14,8 @@ theme = "hugo-theme-minima"
 # page of your blog.
 [author]
 name = "Matthew Midtvedt,"
-slogon = "an aspiring technical writer and software engineer."
-description = "Welcome to my website, Simple Solutions, that shows solutions of LeetCode-like problems! You can view recently-added solutions below or browse solutions based on their categories by selecting the categories tab on the top right of the page."
+slogon = "an aspiring technical writer, software engineer, and creator."
+description = "Welcome to my website, Simple Solutions, that shows solutions of LeetCode-like problems! You can view recently-added solutions below or browse solutions based on their categories by selecting the categories tab on the top right of this page."
 
 
 [params]
@@ -92,7 +92,7 @@ weight = 2
 [[menu.main]]
 name = "About"
 url = "/about"
-weight = 4
+weight = 3
 
 
 # You can classify your posts by setting taxanomies in the front matter
