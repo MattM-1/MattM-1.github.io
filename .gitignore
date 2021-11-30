@@ -1,4 +1,6 @@
 #MacOS
 .DS_Store
-
+#HugoBuildFiles
 .hugo_build.lock
+*.json
+*.content
