@@ -1,11 +1,11 @@
----Cancel changes
+--
 author: Matthew Midtvedt
 title: Testing Formatting
 date: 2021-11-27T13:20:12-06:00
 math: true
 categories: ["Testing"]
-draft: true
----
+draft: false
+--
 
 The code below seems to work nicely; however, I think I am going to have a problem with the math.
 ```
