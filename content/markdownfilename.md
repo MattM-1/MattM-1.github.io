@@ -1,4 +1,4 @@
----
+---Cancel changes
 author: Matthew Midtvedt
 title: Testing Formatting
 date: 2021-11-27T13:20:12-06:00
@@ -20,5 +20,3 @@ Block Math:
 $$
 \Alpha \implies \Beta
 $$
-
-Inline math: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\)
