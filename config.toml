@@ -30,7 +30,7 @@ comment = "utterances"
 # timeformat, no matter what format to use, make it the second day of Jan. 2006
 timeformat = "Jan 02, 2006"
 # switch for turning on/off lights.
-switch = ["🌚", "🌝"]
+switch = ["🌑", "☀️"]
 # if true, date of posts will be displayed in the homepage.
 displayDate = true
 # if true, users can select text from your post.
