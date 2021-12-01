@@ -4,3 +4,4 @@
 .hugo_build.lock
 *.json
 *.content
+public
