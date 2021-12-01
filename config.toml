@@ -1,6 +1,6 @@
 baseURL = "https://mattm-1.github.io/"
 languageCode = "en-us"
-title = "Simple Solutions"
+title = "Matt's Blog"
 copyright = "© XJJ 2021"
 paginate = 6
 googleAnalytics = ""
